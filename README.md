@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Soufain Najmi**
 
-## 💻 Full-Stack Developer | Passionate about Cybersecurity  
+## 💻 Full-Stack Developer 
 
 🚀 I build modern, high-performance web applications, from databases to user interfaces.  
 🔐 I am also interested in cybersecurity and developing tools to test and protect systems.  
@@ -48,29 +48,19 @@
 ### Cybersecurity 🔐
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/wireshark.png" width="40" height="40" alt="Wireshark"/>
   <img src="https://img.icons8.com/color/48/kali-linux.png" width="40" height="40" alt="Kali Linux"/>
 </p>
 
----
-
-## 📂 Recent Projects
-- 🌐 **[Personal Portfolio](#)** : Modern showcase website using Tailwind & JS.  
-- 🛒 **[E-commerce App](#)** : Dynamic cart management, REST API integration.  
-- 🔐 **[Cybersecurity Tools](#)** : Python scripts for automated security testing.  
+--- 
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Contact Me
-- 📧 Email: **soufain.najmi@example.com**  
+- 📧 Email: **soufainnajmi@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/soufain-najmi](#)  
-- 🌍 Portfolio: [soufain-najmi.dev](#)  
 
 ---
 
