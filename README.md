@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Soufain Najmi**
+# 👋 Hi, I'm Soufain Najmi
 
 ## 💻 Full-Stack Developer 
 
