@@ -1,4 +1,4 @@
-# Hi, I'm Soufain Najmi
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" /> Hi, I'm Soufain Najmi
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=650&lines=HELLO+WORLD!;I'm+Najmi;Full+Stack+JavaScript+Developer+✨;Cybersecurity+Enthusiast+🔐)](https://git.io/typing-svg)
 
 ---
