@@ -1,68 +1,66 @@
-
-# 👋 Hi, I'm Soufain Najmi
-
-## 💻 Full-Stack Developer 
-
-🚀 I build modern, high-performance web applications, from databases to user interfaces.  
-🔐 I am also interested in cybersecurity and developing tools to test and protect systems.  
-✨ My goal: turning ideas into concrete and secure digital solutions.
+# Hi, I'm Soufain Najmi
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=650&lines=HELLO+WORLD!;I'm+Najmi;Full+Stack+JavaScript+Developer+✨;Cybersecurity+Enthusiast+🔐)](https://git.io/typing-svg)
 
 ---
 
-## 🛠️ Technical Skills
-
-### Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-
-</p>
-
-### Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-</p>
-
-### Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-</p>
-
-### Tools & DevOps
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
-</p>
-
-### Cybersecurity 🔐
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/kali-linux.png" width="40" height="40" alt="Kali Linux"/>
-</p>
-
---- 
+## 🚀 About Me
+- 💻 **Full Stack Developer** specialized in **JavaScript (JS)**  
+- 🔐 Strong interest in **Cybersecurity**  
+- 📚 Always learning & building cool projects  
 
 ---
 
+## 🛠️ Technical Skills  
+
+### 🌐 Frontend  
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### ⚙️ Backend  
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🛠️ Tools & Platforms  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### 🔐 Cybersecurity  
+<p align="left">
+  <img src="https://img.shields.io/badge/Penetration_Testing-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network_Security-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical_Hacking-29A329?style=for-the-badge&logo=hackaday&logoColor=white" />
+</p>
+
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoGitHub&layout=compact&theme=radical)
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: **soufainnajmi@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/soufain-najmi](#)  
+## 🌐 Connect with Me
+- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 🐦 [Twitter](https://twitter.com/yourprofile)  
+- 🌍 [Portfolio](https://yourwebsite.com)  
 
 ---
 
-✨ _"Code is not just lines, it’s a way to build the future."_ ✨
+✨ Thanks for visiting my profile! 🚀
