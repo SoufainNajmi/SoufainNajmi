@@ -50,9 +50,9 @@
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoGitHub&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoufainNajmi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoufainNajmi&layout=compact&theme=radical)
 
 ---
 
