@@ -58,7 +58,6 @@
 ## 🌐 Connect with Me
 - 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
 - 🐦 [Twitter](https://twitter.com/yourprofile)  
-- 🌍 [Portfolio](https://yourwebsite.com)  
 
 ---
 
