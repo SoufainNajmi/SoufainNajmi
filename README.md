@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-### 🔐 Cybersecurity  
+### 🔐 Cybersecurity :
 <p align="left">
   <img src="https://img.shields.io/badge/Penetration_Testing-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Network_Security-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
