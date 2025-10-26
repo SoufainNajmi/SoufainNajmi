@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 **Full Stack Developer** 
+- 💻 ***Full Stack Developer***
 - 🔐 Strong interest in **Cybersecurity**  
 - 📚 Always learning & building cool projects  
 
