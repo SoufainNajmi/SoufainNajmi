@@ -1,11 +1,5 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" /> Hi , I'm Najmi Soufain
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=650&lines=HELLO+WORLD!;I'm+Najmi;Full+Stack+JavaScript+Developer+✨;Cybersecurity+Enthusiast+🔐)](https://git.io/typing-svg)
-
----
-
-## 🚀 About Me
-- 💻 *** Developer Frontend  ***
----
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" /> Hi , I'm  Frontend Developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=650&lines=HELLO+WORLD!;I'm+Najmi;)](https://git.io/typing-svg)
 
 ## 🛠️ Technical Skills  
 
