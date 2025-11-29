@@ -1,22 +1,68 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" /> Hi , I'm  Frontend Developer
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=650&lines=HELLO+WORLD!;I'm+Najmi;)](https://git.io/typing-svg)
+<h1 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px" /> 
+  Hey, I'm Soufain Najmi - Cybersecurity & Full-Stack Dev Student
+</h1>
 
-## 🛠️ Technical Skills  
+```python
+class Student:
+    def __init__(self):
+        self.name = "Soufain Najmi"
+        self.role = "Cybersecurity & Full-Stack Student"
+        self.passions = [
+            " Cybersecurity & Ethical Hacking",
+            " Network Engineering", 
+            " Full-Stack Development",
+            " System Administration"
+        ]
+        self.current_learning = [
+            "Network Security Protocols",
+            "Web Application Security",
+            "Cloud Infrastructure",
+            "DevSecOps Practices"
+        ]
+    
+    def say_hi(self):
+        return "Welcome to my cyber world! "
+    
+    def contact_info(self):
+        """Return professional contact information"""
+        return {
+            "github": "https://github.com/SoufainNajmi",
+            "linkedin": "https://linkedin.com/in/soufain-najmi",
+            "email": "soufainnajmi@gmail.com"
+        }
+    
+    def display_profile(self):
+        """Display complete student profile"""
+        profile = f"""
+   **STUDENT PROFILE**
 
-### 🌐 Frontend  
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+  **Name**: {self.name}
+  **Role**: {self.role}
 
-## 📊 GitHub Stats
+  **Passions**:
+""" + "\n".join([f"   • {passion}" for passion in self.passions]) + f"""
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoufainNajmi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoufainNajmi&layout=compact&theme=tokyonight)
+  **Currently Learning**:
+""" + "\n".join([f"   • {topic}" for topic in self.current_learning]) + f"""
 
----
-## 🌐 Connect with Me
+ **Connect with me**:
+   • GitHub: {self.contact_info()['github']}
+   • LinkedIn: {self.contact_info()['linkedin']}
+   • TryHackMe: {self.contact_info()['tryhackme']}
+   • Email: {self.contact_info()['email']}
+"""
+        return profile
 
+# Create instance and display information
+me = Student()
+print(me.say_hi())
+print(me.display_profile())
+```
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SoufainNajmi&theme=radical&no-frame=true&row=1&column=7)](https://github.com/SoufainNajmi)
+
+ This README positions you as a serious and passionate student, ready to evolve in the cybersecurity field! �
